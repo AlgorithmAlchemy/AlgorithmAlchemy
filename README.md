@@ -30,8 +30,8 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 *   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
 
 ## 🛠 Technical Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
+*   /Python languages
+*   MySQL, PostgreSQL, MongoDB, Sqlite3, peewee, SqlAlchemy
 *   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
 *   Camunda, Camunda Cockpit, Camunda Modeleter
 *   GitHub/GitLab/Gerrit/Bitbucket
