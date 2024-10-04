@@ -9,6 +9,8 @@
 </head>
 <body>
 
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 <div class="header">
     <h1>My GitHub Profile</h1>
     <p> Ya krutoy specialist !</p>
