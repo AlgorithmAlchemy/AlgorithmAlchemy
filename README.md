@@ -1,5 +1,5 @@
 
-# Hi, I'm Candidate 👋
+### Hi there 👋
 Senior Software Engineer with more than 5 years of commertial experience. I have excellent knowledge in backend development on Java.
 In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
 
@@ -49,7 +49,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
    </a>
 </div>
 
-### Hi there 👋
+
 
 
 Here are some ideas to get you started:
