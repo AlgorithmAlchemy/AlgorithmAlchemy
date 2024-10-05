@@ -6,7 +6,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=algorithmalchemy3&show_icons=true&count_private=true"/></a>
+           src="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/algorithmalchemy/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorithmalchemy&layout=compact"/></a>
 </p>
