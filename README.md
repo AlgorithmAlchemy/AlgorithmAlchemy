@@ -1,7 +1,12 @@
 
-### Hi there 👋
-Senior Software Engineer with more than 5 years of commertial experience. I have excellent knowledge in backend development on Java.
-In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
+### Приветствую 👋
+Я Python-разработчик с более чем 3 годами коммерческого опыта. Мои ключевые компетенции — это backend-разработка на Python. Я работал с монолитными и микросервисными архитектурами, а также имею некоторый опыт в блокчейн-разработке.
+
+В open-source проектах участвую время от времени, однако основное внимание уделяю собственным коммерческим проектам. Поэтому мой код вы не найдёте в большом количестве на GitHub, так как большинство моих разработок остаются в рамках компаний, с которыми я сотрудничаю.
+
+<!--
+Тем не менее, я всегда открыт для обмена опытом и делюсь своими знаниями через статьи и посты на технические темы.
+-->
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img
@@ -22,6 +27,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
    📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a>
 </p>
 
+<!--
 
 ### Key points
 *   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
@@ -44,7 +50,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 *   [Skyscanner Flight API client](https://github.com/romankh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
 *   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
 
-
+-->
 
 
 <!--
