@@ -1,3 +1,9 @@
+<a href="READMEENG.md" style="text-decoration: none;">
+    <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Flag_of_the_United_Kingdom.svg/32px-Flag_of_the_United_Kingdom.svg.png" alt="English" style="vertical-align: middle; padding-right: 8px;" />
+        ENG
+    </button>
+</a>
 
 ### Приветствую 👋
 Я Python-разработчик с более чем 3 годами коммерческого опыта. Мои ключевые компетенции — это backend-разработка на Python. Я работал с монолитными и микросервисными архитектурами, а также имею некоторый опыт в блокчейн-разработке.
