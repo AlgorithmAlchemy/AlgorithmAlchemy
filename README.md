@@ -74,12 +74,7 @@ Here are some ideas to get you started:
 
 
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/algorithmalchemy/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorithmalchemy&layout=compact"/></a>
-</p>
+
 
 
 <div align="center" style="margin: 40px 0">
