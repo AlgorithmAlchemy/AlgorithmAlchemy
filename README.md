@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 
 
-<div align="center" style="margin: 30px 0">
+<div align="center" style="margin: 3px 0">
    <a href="https://github.com/algorithmalchemy/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=algorithmalchemy&colorп=DE002D">
    </a>
