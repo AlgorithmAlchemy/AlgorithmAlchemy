@@ -6,13 +6,13 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/romankh3/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
+           src="https://github-readme-stats.vercel.app/api?username=algorithmalchemy3&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/algorithmalchemy/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorithmalchemy&layout=compact"/></a>
 </p>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/romankh3/">
+   <a href="https://www.linkedin.com/in/algorithmalchemy/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
