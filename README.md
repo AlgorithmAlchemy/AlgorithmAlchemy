@@ -5,7 +5,7 @@
     </button>
 </a>
 
-![AlgorithmAlchemy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlgorithmAlchemy&theme=flag-india&show_icons=true&hide_border=false&layout=compact)
+![AlgorithmAlchemy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlgorithmAlchemy&theme=outrun&show_icons=true&hide_border=false&layout=compact)
 
 
 ### Приветствую 👋
@@ -21,7 +21,7 @@
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&theme=outrun&show_icons=true&count_private=true&cache=false"/>
    </a>
    <a href="https://github.com/algorithmalchemy/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorithmalchemy&theme=flag-india&layout=compact&cache=false"/>
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorithmalchemy&theme=outrun&layout=compact&cache=false"/>
    </a>
 </p>
 
