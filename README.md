@@ -1,6 +1,4 @@
-![AlgorithmAlchemy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlgorithmAlchemy&theme=outrun&hide_border=false)
 
-![AlgorithmAlchemy's Stats](https://github-readme-stats.vercel.app/api?username=AlgorithmAlchemy&theme=outrun&show_icons=true&hide_border=false&count_private=true)
 
 
 <a href="https://github.com/AlgorithmAlchemy/AlgorithmAlchemy/blob/main/ENG_READMY.md" style="text-decoration: none;">
@@ -22,8 +20,8 @@
 
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&show_icons=true&count_private=true&cache=false">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&show_icons=true&count_private=true&cache=false"/>
+   <a href="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&theme=outrun&show_icons=true&count_private=true&cache=false">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&theme=outrun&show_icons=true&count_private=true&cache=false"/>
    </a>
    <a href="https://github.com/algorithmalchemy/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorithmalchemy&layout=compact&cache=false"/>
