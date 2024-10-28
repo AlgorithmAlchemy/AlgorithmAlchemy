@@ -7,7 +7,6 @@
 
 
 
-
 ### Приветствую 👋
 Я Python-разработчик с более чем 3 годами коммерческого опыта. Мои ключевые компетенции — это backend-разработка на Python. Я работал с монолитными и микросервисными архитектурами, а также имею некоторый опыт в блокчейн-разработке.
 
@@ -17,11 +16,11 @@
 
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&show_icons=true&count_private=true&cache=false">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&show_icons=true&count_private=true&cache=false"/>
+   <a href="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&theme=outrun&show_icons=true&count_private=true&cache=false">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&theme=outrun&show_icons=true&count_private=true&cache=false"/>
    </a>
    <a href="https://github.com/algorithmalchemy/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorithmalchemy&layout=compact&cache=false"/>
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorithmalchemy&theme=outrun&layout=compact&cache=false"/>
    </a>
 </p>
 
@@ -115,6 +114,4 @@ Here are some ideas to get you started:
        <img width="150px" src="https://komarev.com/ghpvc/?username=algorithmalchemy&colorп=DE002D">
    </a>
 </div>
-
-
 
