@@ -1,6 +1,3 @@
-
-
-
 <a href="https://github.com/AlgorithmAlchemy/AlgorithmAlchemy/blob/main/ENG_READMY.md" style="text-decoration: none;">
     <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/32px-Flag_of_England.svg.png" alt="English" style="vertical-align: middle; padding-right: 8px;" />
@@ -8,7 +5,7 @@
     </button>
 </a>
 
-
+![AlgorithmAlchemy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlgorithmAlchemy&theme=flag-india&show_icons=true&hide_border=false&layout=compact)
 
 
 ### Приветствую 👋
@@ -24,7 +21,7 @@
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&theme=outrun&show_icons=true&count_private=true&cache=false"/>
    </a>
    <a href="https://github.com/algorithmalchemy/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorithmalchemy&layout=compact&cache=false"/>
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorithmalchemy&theme=flag-india&layout=compact&cache=false"/>
    </a>
 </p>
 
