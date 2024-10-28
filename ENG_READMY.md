@@ -1,4 +1,4 @@
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/github/AlgorithmAlchemy/AlgorithmAlchemy.svg)](https://wakatime.com/badge/github/AlgorithmAlchemy/AlgorithmAlchemy)
 
 <a href="https://github.com/AlgorithmAlchemy/AlgorithmAlchemy/blob/main/ENG_READMY.md" style="text-decoration: none;">
     <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none;">
