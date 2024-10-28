@@ -1,4 +1,3 @@
-/// [![wakatime](https://wakatime.com/badge/github/AlgorithmAlchemy/AlgorithmAlchemy.svg)](https://wakatime.com/badge/github/AlgorithmAlchemy/AlgorithmAlchemy)
 
 
 
