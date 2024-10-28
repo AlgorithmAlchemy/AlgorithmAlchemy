@@ -116,5 +116,3 @@ Here are some ideas to get you started:
    </a>
 </div>
 
-
-![](https://komarev.com/ghpvc/?username=algorithmalchemy)
