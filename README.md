@@ -5,7 +5,6 @@
     </button>
 </a>
 
-![AlgorithmAlchemy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlgorithmAlchemy&theme=outrun&show_icons=true&hide_border=false&layout=compact)
 
 
 ### Приветствую 👋
