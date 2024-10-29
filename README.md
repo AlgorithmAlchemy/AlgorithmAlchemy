@@ -1,3 +1,5 @@
+## <h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4493F8F7&center=true&width=435&lines=Python+Backend)](https://git.io/typing-svg)</a> 
+
 <a href="https://github.com/AlgorithmAlchemy/AlgorithmAlchemy/blob/main/ENG_READMY.md" style="text-decoration: none;">
     <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/32px-Flag_of_England.svg.png" alt="English" style="vertical-align: middle; padding-right: 8px;" />
@@ -5,11 +7,8 @@
     </button>
 </a>
 
-# <h1 align="center"> Приветствую 👋 Я anon
-## <h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4493F8F7&center=true&width=435&lines=Python+Backend+Developer)](https://git.io/typing-svg)</a> 
 
-
-###
+### Приветствую
 Я Python-разработчик с более чем 3 годами коммерческого опыта. Мои ключевые компетенции — это backend-разработка на Python. Я работал с монолитными и микросервисными архитектурами, а также имею некоторый опыт в блокчейн-разработке.
 
 В open-source проектах участвую время от времени, однако основное внимание уделяю собственным или коммерческим проектам. Поэтому мой код вы не найдёте в большом изобилии на GitHub, так как большинство моих разработок остаются в рамках компаний, с которыми я сотрудничаю.
