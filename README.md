@@ -5,7 +5,7 @@
     </button>
 </a>
 
-# <h1 align="center"> Приветствую 👋 Добро пожаловать на мой профиль
+# <h1 align="center"> Приветствую 👋
 ## <h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4493F8F7&center=true&width=435&lines=Python+Backend+Developer)](https://git.io/typing-svg)</a> 
 
 
