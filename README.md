@@ -29,6 +29,7 @@
    </a>
 </p>
 
+<!--
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/algorithmalchemy/">
@@ -41,6 +42,7 @@
    📫 How to reach me: <a href='mailto:your_email@mail.com'>your_email@mail.com</a>
 </p>
 
+-->
 
 
 ### 🔑 ОСНОВНЫЕ МОМЕНТЫ:
