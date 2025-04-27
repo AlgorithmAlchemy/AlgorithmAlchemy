@@ -1,5 +1,5 @@
 
-## <h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4493F8F7&center=true&width=435&lines=Python+Backend)](https://git.io/typing-svg)</a> 
+## <h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4493F8F7&center=true&width=435&lines=Python+Backend+CV)](https://git.io/typing-svg)</a> 
 
 <a href="https://github.com/AlgorithmAlchemy/AlgorithmAlchemy/blob/main/ENG_READMY.md" style="text-decoration: none;">
     <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none;">
