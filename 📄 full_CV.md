@@ -1,5 +1,5 @@
 
-## <h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&color=4493F8F7&center=true&width=435&lines=Python+Backend+CV)](https://git.io/typing-svg)</a> 
+## <h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5000&color=4493F8F7&center=true&width=435&lines=Python+Backend+CV)](https://git.io/typing-svg)</a> 
 
 [📄 Резюме](https://github.com/AlgorithmAlchemy/AlgorithmAlchemy/blob/main/README.md)
 
