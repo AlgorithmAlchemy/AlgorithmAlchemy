@@ -3,7 +3,7 @@
 
 <a href="https://github.com/AlgorithmAlchemy/AlgorithmAlchemy/blob/main/README.md" style="text-decoration: none;">
     <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none;">
-        <img src="" alt="📄 Резюме" style="vertical-align: middle; padding-right: 8px;" />
+        <img alt="📄 Резюме" style="vertical-align: middle; padding-right: 8px;" />
     </button>
 </a>
 
