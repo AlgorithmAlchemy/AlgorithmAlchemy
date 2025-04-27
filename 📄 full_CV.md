@@ -1,6 +1,3 @@
-<!-- 
-# <h1 align="center">Hi! I'm <a href="https://t.me/glush_33" target="_blank">Andrey</a> 
-!-->  
 
 ## <h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4493F8F7&center=true&width=435&lines=Python+Backend)](https://git.io/typing-svg)</a> 
 
