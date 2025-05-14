@@ -88,7 +88,7 @@
 
 ## 🛠 Technical Stack
 *   Python languages
-*   MySQL, PostgreSQL, MongoDB, Sqlite3, peewee, SqlAlchemy
+*   `MySQL, PostgreSQL, MongoDB, Sqlite3, peewee, SqlAlchemy
 *   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
 *   Camunda, Camunda Cockpit, Camunda Modeleter
 *   GitHub/Docker
