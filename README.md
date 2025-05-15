@@ -26,11 +26,11 @@
 
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&theme=outrun&show_icons=true&count_private=true&cache=false">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&theme=outrun&show_icons=true&count_private=true&cache=false"/>
+   <a href="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&theme=outrun&show_icons=true&count_private=true&cache_seconds=300">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&theme=outrun&show_icons=true&count_private=true&cache_seconds=300&random=${{ github.run_id }}"/>
    </a>
    <a href="https://github.com/algorithmalchemy/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorithmalchemy&theme=outrun&layout=compact&cache=false"/>
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorithmalchemy&theme=outrun&layout=compact&cache_seconds=300&random=${{ github.run_id }}"/>
    </a>
 </p>
 
