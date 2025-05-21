@@ -36,7 +36,7 @@ I am a Python developer with more than 3 years of commercial experience. My key 
 
 ### 🔑 HIGHLIGHTS: * I am working on the development of an `NFT game` on the `TON` blockchain with elements of charity in Telegram. * I write posts on technical topics and share my experience with the community. * I develop websites in `Flask`, I have some experience in `Django`. * I am developing a unique brand of accessories in the underground niche, using futuristic and cyber aesthetics. 
 
-### 🛠 TECH STACK: * Programming languages: `Python (mid)`, `JavaScript (jun)` * Databases: `MySQL`, `PostgreSQL`, `MongoDB`, SQLite, Peewee, SqlAlchemy * Infrastructure: Docker * Frameworks and tools: `Flask`, `Django`, `FastAPI`, `Aiogram` * Blockchain and cryptocurrencies: `Ethereum`, `TON`, `Soliduty-smart contracts`, create NFT * Machine learning: Using libraries for ML such as `TensorFlow`, `PyTorch`
+### 🛠 TECH STACK: * Programming languages: `Python (mid)`, `JavaScript (jun)` * Databases: `MySQL`, `PostgreSQL`, `MongoDB`, `SQLite`, Peewee, SqlAlchemy * Infrastructure: Docker * Frameworks and tools: `Flask`, `Django`, `FastAPI`, `Aiogram` * Blockchain and cryptocurrencies: `Ethereum`, `TON`, `Soliduty-smart contracts`, create NFT * Machine learning: Using libraries for ML such as `TensorFlow`, `PyTorch`
 
 ### 💼 MY PROJECTS IN OPEN-SOURCE: * NFT game on the TON blockchain – A game under development that uses cryptocurrency and NFT tokens to interact with players via Telegram. * Telegram Bots – Numerous bot development projects for automation and user engagement. * Other projects – Automate tasks in Windows using scripts, deploy a microservice architecture for backend development.
 
