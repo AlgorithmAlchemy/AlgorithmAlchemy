@@ -6,6 +6,15 @@
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=algorithmalchemy)
 -->
 
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&show_icons=true&count_private=true&cache=false">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&show_icons=true&count_private=true&cache=false"/>
+   </a>
+   <a href="https://github.com/algorithmalchemy/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorithmalchemy&layout=compact&cache=false"/>
+   </a>
+</p>
+
 
 ## <h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=4000&color=4493F8F7&center=true&width=435&lines=Python+Backend)](https://git.io/typing-svg)</a> 
 
