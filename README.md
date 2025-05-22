@@ -6,24 +6,7 @@
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=algorithmalchemy)
 -->
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&show_icons=true&count_private=true&cache=false">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&show_icons=true&count_private=true&cache=false"/>
-   </a>
-   <a href="https://github.com/algorithmalchemy/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorithmalchemy&layout=compact&cache=false"/>
-   </a>
-</p>
 
-
-## <h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=4000&color=4493F8F7&center=true&width=435&lines=Python+Backend)](https://git.io/typing-svg)</a> 
-
-<a href="https://github.com/AlgorithmAlchemy/AlgorithmAlchemy/blob/main/ENG_READMY.md" style="text-decoration: none;">
-    <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/32px-Flag_of_England.svg.png" alt="English" style="vertical-align: middle; padding-right: 8px;" />
-        ENG
-    </button>
-</a>
 
 
 ### Приветствую
@@ -36,10 +19,10 @@
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=algorithmalchemy">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&theme=outrun&show_icons=true&count_private=true&cache_seconds=3600"/>
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&theme=outrun&show_icons=true&count_private=true&cache=false"/>
    </a>
    <a href="https://github.com/anuraghazra/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorithmalchemy&theme=outrun&layout=compact&cache_seconds=3600"/>
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorithmalchemy&theme=outrun&layout=compact&cache=false"/>
    </a>
 </p>
 
