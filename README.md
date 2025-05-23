@@ -6,11 +6,10 @@
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=algorithmalchemy)
 -->
 
-<p align="right">
-  <a href="https://github.com/algorithmalchemy/ENG_READMY.md">
-    <img src="https://img.shields.io/badge/Read-in-English-blue?style=for-the-badge&logo=github&logoColor=white" alt="English version">
-  </a>
+<p align="center">
+  <a href="https://github.com/algorithmalchemy/ENG_READMY.md">🇬🇧 English Version</a>
 </p>
+
 
  
 
