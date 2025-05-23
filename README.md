@@ -7,7 +7,7 @@
 -->
 
 <p align="center">
-  <a href="https://github.com/algorithmalchemy/ENG_READMY.md">🇬🇧 English Version</a>
+  <a href="[https://github.com/algorithmalchemy/ENG_READMY.md](https://github.com/AlgorithmAlchemy/AlgorithmAlchemy/blob/main/ENG_READMY.md)">🇬🇧 English Version</a>
 </p>
 
 
