@@ -11,7 +11,14 @@
 I am a Python developer with more than 3 years of commercial experience. My key competencies are backend development in Python. I've worked with monolithic and microservice architectures, and I also have some experience in blockchain development. I participate in open-source projects from time to time, but I focus on my own or commercial projects. Therefore, you will not find my code in great abundance on GitHub, since most of my developments remain within the companies I work with. However, I am always open to sharing experiences and sharing my knowledge through articles and posts on technical topics.
 
 
-
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&show_icons=true&count_private=true&cache=false">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&show_icons=true&count_private=true&cache=false"/>
+   </a>
+   <a href="https://github.com/algorithmalchemy/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorithmalchemy&layout=compact&cache=false"/>
+   </a>
+</p>
 
 
 <p align='center'>
