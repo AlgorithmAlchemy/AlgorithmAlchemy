@@ -27,7 +27,7 @@
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=algorithmalchemy">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&theme=outrun&show_icons=true&count_private=true&cache=1&hide=issues"/>
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&theme=outrun&show_icons=true&count_private=true&cache=1&hide=issues&show_icons=true"/>
    </a>
    <a href="https://github.com/anuraghazra/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorithmalchemy&theme=outrun&layout=compact&cache=1"/>
