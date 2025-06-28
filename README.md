@@ -15,7 +15,7 @@
 
 
  
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AlgorithmAlchemy?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ### Приветствую
 Я Python-разработчик с более чем 4 годами коммерческого опыта. Мои ключевые компетенции — это backend-разработка на Python. Я работал с монолитными и микросервисными архитектурами, а также имею некоторый опыт в блокчейн-разработке.
