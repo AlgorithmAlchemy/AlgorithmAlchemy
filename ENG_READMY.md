@@ -1,3 +1,60 @@
+<div align="center">
+  <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" width="120">
+</div>
+
+<div align="center">
+  <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" width="320">
+</div>
+
+<h3 align="center">
+  <img src="https://www.animatedimages.org/data/media/142/animated-terminal-image-0035.gif" width="24">
+  <code style="font-size:20px">SYSTEM READY — AWAITING INPUT</code>
+  <img src="https://www.animatedimages.org/data/media/142/animated-terminal-image-0035.gif" width="24">
+</h3>
+
+---
+
+### 🧠 I am a Python developer with more than 3 years of commercial experience.
+
+My key competencies are **backend development** in Python. I've worked with **monolithic** and **microservice architectures**, and I also have some experience in **blockchain development**.
+
+I participate in open-source projects from time to time, but I focus on **my own** or **commercial projects**.  
+Most of my developments remain **inside the companies**, but I'm open to sharing knowledge through articles and posts on technical topics.
+
+<p align='center'>
+  <a href="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&show_icons=true&count_private=true&cache=10">
+    <img height=150 src="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&show_icons=true&count_private=true&cache=10"/>
+  </a>
+  <a href="https://github.com/algorithmalchemy/github-readme-stats">
+    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorithmalchemy&layout=compact&cache=10"/>
+  </a>
+</p>
+
+---
+
+### 👨‍💻 CONTACT
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/algorithmalchemy/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://t.me/devlope_r">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
+
+<p align='center'>
+  📫 Email me: <a href='mailto:moon_shadow@cyberfear.com'>moon_shadow@cyberfear.com</a>
+</p>
+
+---
+
+### 🔑 HIGHLIGHTS
+
+
+
+
+
 
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
