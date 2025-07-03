@@ -46,45 +46,6 @@ Most of my developments remain **inside the companies**, but I'm open to sharing
   📫 Email me: <a href='mailto:moon_shadow@cyberfear.com'>moon_shadow@cyberfear.com</a>
 </p>
 
----
-
-
-
-<div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
-</div>
-
-<div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
-</div>
- 
-
-<!--
-  ![Brayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=algorithmalchemy&show=reviews,discussions_started,discussions_answered&theme=transparent)
--->
-
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&show_icons=true&count_private=true&cache=10">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&show_icons=true&count_private=true&cache=10"/>
-   </a>
-   <a href="https://github.com/algorithmalchemy/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorithmalchemy&layout=compact&cache=10"/>
-   </a>
-</p>
-
-
-<p align='center'>
-   <a href="https://www.linkedin.com/in/algorithmalchemy/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-   <a href="https://t.me/devlope_r">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
-<p align='center'>
-   📫 How to reach me: <a href='[mailto:moon_shadow@cyberfear.com]'>mail</a>
-</p>
-
-
 
 
 ### 🔑 HIGHLIGHTS: * I am working on the development of an `NFT game` on the `TON` blockchain with elements of charity in Telegram. * I write posts on technical topics and share my experience with the community. * I develop websites in `Flask`, I have some experience in `Django`. * I am developing a unique brand of accessories in the underground niche, using futuristic and cyber aesthetics. 
