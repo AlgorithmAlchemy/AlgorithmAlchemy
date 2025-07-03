@@ -83,7 +83,7 @@
 ### 🛰 НА СВЯЗИ
 
 <p align="center">
-   <a href="https://t.me/glush_33">
+   <a href="https://t.me/devlope_r">
       <img src="https://img.shields.io/badge/Telegram-glush__33-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 </p>
