@@ -65,9 +65,6 @@ Most of my developments remain **inside the companies**, but I'm open to sharing
 </div>
  
 
-### 
-I am a Python developer with more than 3 years of commercial experience. My key competencies are backend development in Python. I've worked with monolithic and microservice architectures, and I also have some experience in blockchain development. I participate in open-source projects from time to time, but I focus on my own or commercial projects. Therefore, you will not find my code in great abundance on GitHub, since most of my developments remain within the companies I work with. However, I am always open to sharing experiences and sharing my knowledge through articles and posts on technical topics.
-
 <!--
   ![Brayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=algorithmalchemy&show=reviews,discussions_started,discussions_answered&theme=transparent)
 -->
