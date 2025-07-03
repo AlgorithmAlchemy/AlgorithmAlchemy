@@ -32,7 +32,6 @@ Most of my developments remain **inside the companies**, but I'm open to sharing
 
 ---
 
-### 👨‍💻 CONTACT
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/algorithmalchemy/">
@@ -48,11 +47,6 @@ Most of my developments remain **inside the companies**, but I'm open to sharing
 </p>
 
 ---
-
-### 🔑 HIGHLIGHTS
-
-
-
 
 
 
