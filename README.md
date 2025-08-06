@@ -2,7 +2,7 @@
 # <h1 align="center">Hi! I'm <a href="https://t.me/glush_33" target="_blank">Andrey</a> 
 -->  
  
-<!--
+<!-- 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=algorithmalchemy)
 -->
 
