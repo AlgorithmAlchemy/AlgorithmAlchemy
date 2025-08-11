@@ -43,7 +43,7 @@ Most of my developments remain **inside the companies**, but I'm open to sharing
 </p>
 
 <p align='center'>
-  📫 Email me: <a href='mailto:moon_shadow@cyberfear.com'>moon_shadow@cyberfear.com</a>
+  📫 Email me: <a href='mailto:'>moon_shadow@cyberfear.com</a>
 </p>
 
 
