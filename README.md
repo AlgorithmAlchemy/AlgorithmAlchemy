@@ -1,10 +1,4 @@
-<!--   
-#  <h1 align="center">Hi! I'm <a href="https://t.me/glush_33" target="_blank">Andrey</a>  
--->   
- 
-<!-- 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=algorithmalchemy)
--->
+
 
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=AlgorithmAlchemy&fontAlign=center&fontSize=40&animation=fadeIn" />
@@ -79,9 +73,7 @@
 | 🕸 **Сетевые утилиты** | сокеты, мониторинг, кастомные агенты |
 
 ---
-<!--
-### 🛰 НА СВЯЗИ
--->
+
 
 <p align="center">
    <a href="https://t.me/devlope_r">
