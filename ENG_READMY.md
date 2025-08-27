@@ -14,7 +14,7 @@
 
 ---
 
-### 🧠 I am a Python developer with more than 3 years of commercial experience.
+### 🧠 I am a Python developer with more than 3.5 years of commercial experience.
 
 My key competencies are **backend development** in Python. I've worked with **monolithic** and **microservice architectures**, and I also have some experience in **blockchain development**.
 
