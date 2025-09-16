@@ -1,7 +1,7 @@
 
 
 <p align="center">   
-  <img src="https://capsule-render.vercel.app/api? type=waving&color=gradient&height=160&section=header&text=AlgorithmAlchemy&fontAlign=center&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=AlgorithmAlchemy&fontAlign=center&fontSize=40&animation=fadeIn" />
 </p>
 
 <p align="center">
