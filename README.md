@@ -1,17 +1,11 @@
 <p align="center">   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=AlgorithmAlchemy&fontAlign=center&fontSize=40&animation=fadeIn" />
   <br>
-
-</p>
-
-
-
-
-<p align="center">
   <a href="https://github.com/AlgorithmAlchemy/AlgorithmAlchemy/blob/main/ENG_READMY.md" target="_blank">
     <img src="https://img.shields.io/badge/English%20version-ENG_READMY.md-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" alt="English version">
   </a>
 </p>
+
 
 --- 
 
