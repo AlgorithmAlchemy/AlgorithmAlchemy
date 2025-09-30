@@ -1,3 +1,8 @@
+<p align="center">   
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=AlgorithmAlchemy&fontAlign=center&fontSize=40&animation=fadeIn" />
+  <br>
+  <em>Python Backend | AI | Web3 | Automation</em>
+</p>
 
 
 <p align="center">   
