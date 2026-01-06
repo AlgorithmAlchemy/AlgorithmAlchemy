@@ -21,7 +21,6 @@
 
 ### Статистика и активность  
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AlgorithmAlchemy?cardType=level&theme=dark&fontFamily=&preferLogin=false&borderRadius=50)](https://git.io/awesome-stats-card)
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AlgorithmAlchemy?cardType=level&theme=radical&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 <!--
 <p align='center'>
   <a href="https://github-readme-stats.vercel.app/api?username=algorithmalchemy">
