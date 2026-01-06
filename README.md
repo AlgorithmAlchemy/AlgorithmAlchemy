@@ -20,7 +20,7 @@
 ---
 
 ### Статистика и активность  
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AlgorithmAlchemy?cardType=level&theme=radical&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 <p align='center'>
   <a href="https://github-readme-stats.vercel.app/api?username=algorithmalchemy">
     <img height=150 src="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&theme=radical&show_icons=true&count_private=true&hide=issues"/>
