@@ -21,6 +21,8 @@ My key competencies are **backend development** in Python. I've worked with **mo
 I participate in open-source projects from time to time, but I focus on **my own** or **commercial projects**.  
 Most of my developments remain **inside the companies**, but I'm open to sharing knowledge through articles and posts on technical topics.
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AlgorithmAlchemy?cardType=level&fontFamily=&preferLogin=false&borderRadius=20)](https://git.io/awesome-stats-card)
+<!--
 <p align='center'>
   <a href="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&show_icons=true&count_private=true&cache=10">
     <img height=150 src="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&show_icons=true&count_private=true&cache=10"/>
@@ -29,7 +31,7 @@ Most of my developments remain **inside the companies**, but I'm open to sharing
     <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorithmalchemy&layout=compact&cache=10"/>
   </a>
 </p>
-
+-->
 ---
 
 
