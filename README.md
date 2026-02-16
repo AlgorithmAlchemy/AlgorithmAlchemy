@@ -74,7 +74,7 @@
 
 
 <p align="center">
-   <a href="https://t.me/devlope_r">
+   <a href="https://t.me/">
       <img src="https://img.shields.io/badge/Telegram-devlope_r-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 </p>
