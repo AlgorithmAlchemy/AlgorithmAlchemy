@@ -64,6 +64,6 @@ Most of my developments remain **inside the companies**, but I'm open to sharing
 
 <div align="center" style="margin: 30px 0">
    <a href="https://github.com/algorithmalchemy/github-profile-views-counter">
-       <img width="150px" src="https://komarev.com/ghpvc/?username=algorithmalchemy&colorп=DE002D">
+       <img width="150px" src="https://komarev.com/ghpvc/?username=&colorп=DE002D">
    </a>
 </div>
