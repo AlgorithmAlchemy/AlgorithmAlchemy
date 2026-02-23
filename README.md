@@ -12,25 +12,16 @@
 
 ### Приветствую  
 
-Я **Python-разработчик** с более чем **3.5 годами коммерческого опыта**. Основная специализация — **backend**, а также **боты**, **API**, **инфраструктура**, **блокчейн**, **нейросети** и кастомные инструменты автоматизации.
+Я **Python-разработчик** с более чем **3.5 годами коммерческого опыта**. Основная специализация — **backend**, **боты**, **API**, **инфраструктура**, **блокчейн**, **нейросети**, кастомные инструменты автоматизации.
 
-- Люблю разрабатывать нестандартные решения, минималистичный код и автоматизировать всё, что можно автоматизировать.   
+- Люблю разрабатывать нестандартные решения, минималистичный код и автоматизировать всё.   
 - Слежу за технологиями, особенно интересуюсь **Web3**, **AI**, **privacy-tech** и **инструментами кибер эстетики**.
 
 ---
 
 ### Статистика и активность  
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AlgorithmAlchemy?cardType=level&theme=dark&fontFamily=&preferLogin=false&borderRadius=50)](https://git.io/awesome-stats-card)
-<!--
-<p align='center'>
-  <a href="https://github-readme-stats.vercel.app/api?username=algorithmalchemy">
-    <img height=150 src="https://github-readme-stats.vercel.app/api?username=algorithmalchemy&theme=radical&show_icons=true&count_private=true&hide=issues"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorithmalchemy&theme=radical&layout=compact"/>
-  </a>
-</p>
--->
+
 ---
 
 ### ОСНОВНЫЕ НАПРАВЛЕНИЯ
