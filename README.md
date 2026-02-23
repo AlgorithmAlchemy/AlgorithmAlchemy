@@ -43,7 +43,6 @@
 | ML / CV             | `PyTorch`, `TensorFlow`, `OpenCV` |
 | DevOps / Infra      | `Docker`, `CI/CD`, `Nginx`, `Gunicorn` |
 | Backend Frameworks  | `FastAPI`, `Flask`, `Django`, `Aiogram` |
-| Web3                | `Ethereum`, `TON`, `Solidity`, `NFT` |
 
 ---
 
