@@ -6,53 +6,54 @@
 
 --- 
 
-### Приветствую  
+### Welcome  
 
-Я **Python-разработчик** с более чем **3 годами коммерческого опыта**. Основная специализация — **backend**, **боты**, **API**, **инфраструктура**, **блокчейн**, **нейросети**, кастомные инструменты автоматизации.
+I am a **Python developer** with over **3 years of commercial experience**. My core specialization is **backend**, **bots**, **API development**, **infrastructure**, **blockchain**, **neural networks**, and custom automation tools.
 
-- Люблю разрабатывать нестандартные решения, минималистичный код и автоматизировать всё.   
-- Слежу за технологиями, особенно интересуюсь **Web3**, **AI**, **privacy-tech** и **инструментами кибер эстетики**.
+- I enjoy building unconventional solutions, writing minimalistic code, and automating everything possible.  
+- I stay up to date with modern technologies, with a strong interest in **Web3**, **AI**, **privacy-tech**, and **cyber aesthetic tools**.
+
 
 ---
 
-### Статистика и активность  
+### Statistics & Activity    
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AlgorithmAlchemy?cardType=level&theme=dark&fontFamily=&preferLogin=false&borderRadius=50)](https://git.io/awesome-stats-card)
 
 ---
 
-### ОСНОВНЫЕ НАПРАВЛЕНИЯ
+### CORE DIRECTIONS
 
-- Telegram-боты и CLI-инструменты
-- API-сервисы на Flask / FastAPI
-- Автоматизация: парсеры, антидетекты
-- Машинное зрение, нейросети и генерация контента
-- Веб3, NFT, крипто-шлюзы и мониторинг блокчейна
-- Сетевые инструменты: сокеты, мониторинг
-
----
-
-### СТЕК
-
-| Категория              | Технологии |
-|------------------------|------------|
-| Языки             | `Python`, `JavaScript` |
-| Базы данных        | `PostgreSQL`, `MySQL`, `MongoDB`, `SQLite` |
-| ORM                 | `SQLAlchemy`, `Peewee`, `Django ORM` |
-| ML / CV             | `PyTorch`, `TensorFlow`, `OpenCV` |
-| DevOps / Infra      | `Docker`, `CI/CD`, `Nginx`, `Gunicorn` |
-| Backend Frameworks  | `FastAPI`, `Flask`, `Django`, `Aiogram` |
+- Telegram bots and CLI tools  
+- API services using Flask / FastAPI  
+- Automation: parsers, anti-detect systems  
+- Computer vision, neural networks, and content generation  
+- Web3, NFT, crypto gateways, and blockchain monitoring  
+- Networking tools: sockets, monitoring  
 
 ---
 
-### ПРОЕКТЫ
+### TECH STACK
 
-| Название | Описание |
-|---------|----------|
-| **Telegram-боты** | от админов и магазинов до мультимедиа-загрузчиков |
-| **Face AI / Vision** | генерация AR-масок, распознавание лиц |
-| **Камера-эмуляторы** | видеопоток и виртуальные устройства |
-| **ML-демки** | классификация текста, эмоции, генерация |
-| **Сетевые утилиты** | сокеты, мониторинг |
+| Category              | Technologies |
+|-----------------------|-------------|
+| Languages             | `Python`, `JavaScript` |
+| Databases             | `PostgreSQL`, `MySQL`, `MongoDB`, `SQLite` |
+| ORM                   | `SQLAlchemy`, `Peewee`, `Django ORM` |
+| ML / CV               | `PyTorch`, `TensorFlow`, `OpenCV` |
+| DevOps / Infra        | `Docker`, `CI/CD`, `Nginx`, `Gunicorn` |
+| Backend Frameworks    | `FastAPI`, `Flask`, `Django`, `Aiogram` |
+
+---
+
+### PROJECTS
+
+| Name | Description |
+|------|------------|
+| **Telegram Bots** | from admin panels and e-commerce bots to multimedia downloaders |
+| **Face AI / Vision** | AR mask generation, face recognition |
+| **Camera Emulators** | video streaming and virtual devices |
+| **ML Demos** | text classification, emotion detection, generation |
+| **Networking Utilities** | sockets, monitoring |
 
 ---
 
