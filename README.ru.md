@@ -59,14 +59,14 @@
 ---
 
 <p align="center">
-   <a href="https://t.me/">
-      <img src="https://img.shields.io/badge/Telegram-algorithmalchemy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   <a href="https://t.me/algorithmalchemy" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-@algorithmalchemy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 </p>
 
 <div align="center">
-   <a href="https://komarev.com/ghpvc/?username=algorithmalchemy&color=blue">
-       <img src="https://komarev.com/ghpvc/?username=algorithmalchemy&style=flat-square&color=blue" alt="Profile views"/>
+   <a href="https://komarev.com/ghpvc/?username=AlgorithmAlchemy&color=blue">
+       <img src="https://komarev.com/ghpvc/?username=AlgorithmAlchemy&style=flat-square&color=blue" alt="Profile views"/>
    </a>
 </div>
 
