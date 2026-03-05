@@ -1,8 +1,10 @@
 <p align="center">   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=AlgorithmAlchemy&fontAlign=center&fontSize=40&animation=fadeIn" />
+  <!-- Smaller header banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=AlgorithmAlchemy&fontAlign=center&fontSize=32&animation=fadeIn" />
   <br>
+  <!-- Smaller English badge -->
   <a href="https://github.com/AlgorithmAlchemy/AlgorithmAlchemy/blob/main/ENG_READMY.md" target="_blank">
-    <img src="https://img.shields.io/badge/English%20version-ENG_READMY.md-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" alt="English version">
+    <img src="https://img.shields.io/badge/English%20version-ENG_READMY.md-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=24292e" alt="English version">
   </a>
 </p>
 
@@ -66,7 +68,7 @@
 
 <div align="center">
    <a href="https://komarev.com/ghpvc/?username=AlgorithmAlchemy&color=blue">
-       <img src="https://komarev.com/ghpvc/?username=AlgorithmAlchemy&style=flat-square&color=blue" alt="Profile views"/>
+       <img src="https://komarev.com/ghpvc/?username=AlgorithmAlchemy&style=flat-square&color=blue" alt="Profile views" height="20"/>
    </a>
 </div>
 
