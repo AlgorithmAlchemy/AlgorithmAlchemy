@@ -65,11 +65,6 @@
    </a>
 </p>
 
-<div align="center">
-   <a href="https://komarev.com/ghpvc/?username=AlgorithmAlchemy&color=blue">
-       <img src="https://komarev.com/ghpvc/?username=AlgorithmAlchemy&style=flat-square&color=blue" alt="Profile views" height="20"/>
-   </a>
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
