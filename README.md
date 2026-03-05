@@ -49,7 +49,7 @@ I am a **Python developer** with over **3 years of commercial experience**. My c
 
 | Name | Description |
 |------|------------|
-| **Telegram Bots** | from admin panels and e-commerce bots to multimedia downloaders |
+| **Telegram Bots** | admin panels and e-commerce bots & bot app |
 | **Face AI / Vision** | AR mask generation, face recognition |
 | **Camera Emulators** | video streaming and virtual devices |
 | **ML Demos** | text classification, emotion detection, generation |
