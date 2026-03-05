@@ -59,6 +59,10 @@
 ---
 
 <p align="center">
+  <sub>contact · collaboration · projects</sub>
+</p>
+
+<p align="center">
    <a href="https://t.me/algorithmalchemy" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-@algorithmalchemy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
