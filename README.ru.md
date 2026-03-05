@@ -38,7 +38,7 @@
 | Databases             | `PostgreSQL`, `MySQL`, `MongoDB`, `SQLite` |
 | ORM                   | `SQLAlchemy`, `Peewee`, `Django ORM` |
 | DevOps / Infra        | `Docker`, `CI/CD`, `Nginx`, `Gunicorn` |
-| Frameworks    | `FastAPI`, `Flask`, `Django`, `Aiogram` |
+| Frameworks    | `Django`, `Aiogram` |
 
 ---
 
