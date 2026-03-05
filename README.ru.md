@@ -35,14 +35,14 @@
 
 ### СТЕК
 
-| Категория              | Технологии |
-|------------------------|------------|
-| Languages           | `Python`, `JavaScript` |
-| Databases / ORM     | `PostgreSQL`, `MySQL`, `MongoDB`, `SQLite / SQLAlchemy`, `Peewee`, `Django ORM` |
-| ORM                 | `SQLAlchemy`, `Peewee`, `Django ORM` |
-| ML / CV             | `PyTorch`, `TensorFlow`, `OpenCV` |
-| DevOps / Infra      | `Docker`, `CI/CD`, `Nginx`, `Gunicorn` |
-| Backend / API       | `FastAPI`, `Flask`, `Django`, `Aiogram` |
+| Category              | Technologies |
+|-----------------------|-------------|
+| Languages             | `Python`, `JavaScript` |
+| Databases             | `PostgreSQL`, `MySQL`, `MongoDB`, `SQLite` |
+| ORM                   | `SQLAlchemy`, `Peewee`, `Django ORM` |
+| ML / CV               | `PyTorch`, `TensorFlow`, `OpenCV` |
+| DevOps / Infra        | `Docker`, `CI/CD`, `Nginx`, `Gunicorn` |
+| Backend Frameworks    | `FastAPI`, `Flask`, `Django`, `Aiogram` |
 
 ---
 
@@ -50,7 +50,7 @@
 
 | Название | Описание |
 |---------|----------|
-| **Telegram-боты** | от админов и магазинов до мультимедиа-загрузчиков |
+| **Telegram-боты** | от админов и магазинов до web приложений |
 | **Face AI / Vision** | генерация AR-масок, распознавание лиц |
 | **Камера-эмуляторы** | видеопоток и виртуальные устройства |
 | **ML-демки** | классификация текста, эмоции, генерация |
