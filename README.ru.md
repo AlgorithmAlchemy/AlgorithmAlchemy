@@ -39,7 +39,7 @@
 | Languages             | `Python`, `JavaScript` |
 | Databases             | `PostgreSQL`, `MySQL`, `MongoDB`, `SQLite` |
 | ORM                   | `SQLAlchemy`, `Peewee`, `Django ORM` |
-| DevOps / Infra        | `Docker`, `Docker Compose`, `CI/CD`, `GitHub Actions`, `Nginx`, `Gunicorn` |
+| DevOps / Infra        | `Docker Compose`, `CI/CD`, `GitHub Actions`, `Nginx`, `Gunicorn` |
 | Frameworks    | `Django`, `Aiogram` |
 
 ---
