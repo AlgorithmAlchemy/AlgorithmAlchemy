@@ -23,9 +23,9 @@
 
 ### ОСНОВНЫЕ НАПРАВЛЕНИЯ
 
-- Backend / API: Flask / FastAPI, OpenAPI, versioning, authentication
+- API: Flask / FastAPI, OpenAPI, versioning, authentication
 - Автоматизация: парсеры, антидетекты
-- Машинное зрение, нейросети и генерация контента
+- ML / CV, нейросети и генерация контента
 - Сетевые инструменты: сокеты, мониторинг
 
 ---
@@ -37,9 +37,8 @@
 | Languages             | `Python`, `JavaScript` |
 | Databases             | `PostgreSQL`, `MySQL`, `MongoDB`, `SQLite` |
 | ORM                   | `SQLAlchemy`, `Peewee`, `Django ORM` |
-| ML / CV               | `PyTorch`, `TensorFlow`, `OpenCV` |
 | DevOps / Infra        | `Docker`, `CI/CD`, `Nginx`, `Gunicorn` |
-| Backend Frameworks    | `FastAPI`, `Flask`, `Django`, `Aiogram` |
+| Frameworks    | `FastAPI`, `Flask`, `Django`, `Aiogram` |
 
 ---
 
