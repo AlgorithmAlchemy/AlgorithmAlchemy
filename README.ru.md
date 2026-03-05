@@ -23,7 +23,6 @@
 
 ### ОСНОВНЫЕ НАПРАВЛЕНИЯ
 
-- Telegram-боты и CLI-инструменты
 - Backend / API: Flask / FastAPI, OpenAPI, versioning, authentication
 - Автоматизация: парсеры, антидетекты
 - Машинное зрение, нейросети и генерация контента
