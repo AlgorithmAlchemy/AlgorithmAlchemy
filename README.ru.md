@@ -37,12 +37,12 @@
 
 | Категория              | Технологии |
 |------------------------|------------|
-| Языки             | `Python`, `JavaScript` |
-| Базы данных        | `PostgreSQL`, `MySQL`, `MongoDB`, `SQLite` |
+| Languages           | `Python`, `JavaScript` |
+| Databases / ORM     | `PostgreSQL`, `MySQL`, `MongoDB`, `SQLite / SQLAlchemy`, `Peewee`, `Django ORM` |
 | ORM                 | `SQLAlchemy`, `Peewee`, `Django ORM` |
 | ML / CV             | `PyTorch`, `TensorFlow`, `OpenCV` |
 | DevOps / Infra      | `Docker`, `CI/CD`, `Nginx`, `Gunicorn` |
-| Backend Frameworks  | `FastAPI`, `Flask`, `Django`, `Aiogram` |
+| Backend / API       | `FastAPI`, `Flask`, `Django`, `Aiogram` |
 
 ---
 
