@@ -65,9 +65,6 @@
 | **Face AI / Vision** | генерация AR-масок, распознавание лиц |
 | **Сетевые утилиты** | сокеты, мониторинг asyncio sockets |
 
-
-
-
 <p align="center">
   <sub>contact · collaboration · projects</sub>
 </p>
