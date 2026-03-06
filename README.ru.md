@@ -57,6 +57,16 @@
 
 ---
 
+### Engineering Principles
+
+- SOLID, DRY, KISS
+- Clean architecture
+- Test isolation
+- Industrial code style
+- Документация и типизация
+
+---
+
 <p align="center">
   <sub>contact · collaboration · projects</sub>
 </p>
