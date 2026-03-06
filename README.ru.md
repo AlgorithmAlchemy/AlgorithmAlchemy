@@ -14,12 +14,12 @@
 
 Я **Python-разработчик** с более чем **3 годами коммерческого опыта**. Основная специализация — **backend**, **боты**, **REST API**, **инфраструктура**, **e-commerce**, **SaaS**, **блокчейн**.
 
+- **Engineering Principles:** SOLID, DRY, KISS, Clean architecture, Test isolation, Industrial code style, Документация и типизация
 - Люблю оптимизировать процессы и писать минималистичный код, разрабатываю кастомные решения для автоматизации и интеграции.
 - Проектирую архитектуру сервисов с нуля
 - Оптимизирую latency и I/O
 - Слежу за технологиями, особенно интересуюсь **Web3**, **AI** и **privacy-tech**.
-- **Engineering Principles:** SOLID, DRY, KISS, Clean architecture, Test isolation, Industrial code style, Документация и типизация
-- 
+
 ---
 
 ### Статистика и активность  
