@@ -45,11 +45,10 @@
 | Async / Networking    | `asyncio`, `aiohttp`, `WebSockets`, `Sockets` |
 | Databases             | `PostgreSQL`, `MySQL`, `MongoDB`, `SQLite` |
 | ORM                   | `SQLAlchemy`, `Peewee`, `Django ORM` |
-| DevOps / Infra        | `Docker`, `Docker Compose`, `CI/CD`, `GitHub Actions`, `Nginx`, `Gunicorn` |
+| DevOps / Infra        | `Docker Compose`, `CI/CD`, `Git Actions`, `Nginx`, `Gunicorn` |
 | Testing               | `Pytest`, `Unit testing`, `Integration testing` |
 | ML / Computer Vision  | `PyTorch`, `TensorFlow`, `OpenCV` |
 | Messaging / Tasks     | `Redis`, `Celery` |
-| Frameworks            | `Django`, `FastAPI`, `Aiogram` |
 
 ----
 
