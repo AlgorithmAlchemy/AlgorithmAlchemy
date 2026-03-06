@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=AlgorithmAlchemy&fontAlign=center&fontSize=32&animation=fadeIn" />
   <br>
   <!-- Smaller English badge -->
-  <a href="https://github.com/AlgorithmAlchemy/AlgorithmAlchemy/blob/main/ENG_READMY.md" target="_blank">
+  <a href="https://github.com/AlgorithmAlchemy/AlgorithmAlchemy/blob/main/README.en.md" target="_blank">
     <img src="https://img.shields.io/badge/English%20version-ENG_READMY.md-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=24292e" alt="English version">
   </a>
   &nbsp;&nbsp;
