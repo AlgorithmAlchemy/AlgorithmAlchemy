@@ -6,6 +6,11 @@
   <a href="https://github.com/AlgorithmAlchemy/AlgorithmAlchemy/blob/main/ENG_READMY.md" target="_blank">
     <img src="https://img.shields.io/badge/English%20version-ENG_READMY.md-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=24292e" alt="English version">
   </a>
+  &nbsp;&nbsp;
+  <!-- CV PDF badge -->
+  <a href="https://github.com/AlgorithmAlchemy/AlgorithmAlchemy/raw/main/AlgorithmAlchemy_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20CV-PDF-0d1117?style=flat-square&logo=adobeacrobat&logoColor=white"/>
+  </a>
 </p>
 
 ----
