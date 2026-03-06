@@ -23,7 +23,7 @@
 ### Статистика и активность  
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AlgorithmAlchemy?cardType=level&theme=dark&fontFamily=&preferLogin=false&borderRadius=50)](https://git.io/awesome-stats-card)
 
----
+----
 
 ### ОСНОВНЫЕ НАПРАВЛЕНИЯ
 
@@ -32,7 +32,7 @@
 - ML / CV, нейросети и генерация контента
 - Сетевые инструменты: сокеты, мониторинг
 
----
+----
 
 ### СТЕК
 
@@ -44,7 +44,7 @@
 | DevOps / Infra        | `Docker Compose`, `CI/CD`, `GitHub Actions`, `Nginx`, `Gunicorn` |
 | Frameworks    | `Django`, `Aiogram` |
 
----
+----
 
 ### ПРОЕКТЫ
 
@@ -56,7 +56,8 @@
 | **Сетевые утилиты** | сокеты, мониторинг |
 
 
----
+> **Engineering Principles:** SOLID, DRY, KISS, Clean architecture, Test isolation, Industrial code style, Документация и типизация
+
 
 <p align="center">
   <sub>contact · collaboration · projects</sub>
