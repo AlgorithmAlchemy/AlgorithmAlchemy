@@ -2,14 +2,13 @@
   <!-- Smaller header banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=AlgorithmAlchemy&fontAlign=center&fontSize=32&animation=fadeIn" />
   <br>
-  <!-- Smaller English badge -->
+  <!-- English version badge -->
   <a href="https://github.com/AlgorithmAlchemy/AlgorithmAlchemy/blob/main/README.md" target="_blank">
-    <img src="https://img.shields.io/badge/English%20version-README.md-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=24292e" alt="English version">
+    <img src="https://img.shields.io/badge/English%20version-README-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&logoWidth=20" alt="English version">
   </a>
-  &nbsp;&nbsp;
   <!-- CV PDF badge -->
   <a href="https://github.com/AlgorithmAlchemy/AlgorithmAlchemy/raw/main/AlgorithmAlchemy_CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View%20CV-PDF-0d1117?style=flat-square&logo=adobeacrobat&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View%20CV-PDF-0d1117?style=for-the-badge&logo=adobeacrobat&logoColor=white&labelColor=24292e&logoWidth=20"/>
   </a>
 </p>
 
@@ -71,10 +70,9 @@
 
 <p align="center">
    <a href="https://t.me/algorithmalchemy" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-@algorithmalchemy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Telegram-@algorithmalchemy-0d1117?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&logoWidth=20"/>
    </a>
 </p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
