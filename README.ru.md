@@ -17,8 +17,8 @@
 - **Индженерные принципы:** SOLID, DRY, KISS, Clean Architecture, Test Isolation, Type Safety
 - Люблю оптимизировать процессы и писать минималистичный код, разрабатываю кастомные решения для автоматизации и интеграции.
 - Проектирую архитектуру сервисов с нуля
-- Оптимизирую latency и I/O
-- Слежу за технологиями, особенно интересуюсь **Web3**, **AI** и **privacy-tech**.
+- Работаю с async-архитектурой и оптимизацией I/O
+- Интересуюсь направлениями  **Web3**, **AI** и **privacy-tech**.
 
 ---
 
@@ -31,7 +31,7 @@
 
 - API: Flask / FastAPI, OpenAPI, versioning, authentication
 - Автоматизация: парсеры, антидетекты
-- ML / CV, нейросети и генерация контента
+- ML демо и эксперементы, нейросети и генерация контента
 - Сетевые инструменты: сокеты, мониторинг
 
 ----
@@ -41,13 +41,13 @@
 | Category              | Technologies |
 |-----------------------|-------------|
 | Languages             | `Python`, `JavaScript` |
-| Backend / API         | `Django`, `aiogram`, `REST` |
+| Frameworks            | `Django`, `aiogram`, `REST` |
 | Async / Networking    | `asyncio`, `aiohttp`, `WebSockets`, `Sockets` |
 | Databases             | `PostgreSQL`, `MySQL`, `MongoDB`, `SQLite` |
 | ORM                   | `SQLAlchemy`, `Peewee`, `Django ORM` |
 | DevOps / Infra        | `Docker Compose`, `CI/CD`,  `Nginx`, `Gunicorn` |
 | Testing               | `Pytest`, `Unit testing`, `Integration testing` |
-| Messaging / Tasks     | `Redis`, `Celery` |
+| Background processing     | `Redis`, `Celery` |
 
 ----
 
@@ -55,7 +55,7 @@
 
 | Название | Описание |
 |---------|----------|
-| **Telegram-боты** | от админов и магазинов до web приложений |
+| **Telegram-боты** | системы модерации, автоматизация, mini-apps |
 | **Face AI / Vision** | генерация AR-масок, распознавание лиц |
 | **ML-демки** | классификация текста, эмоции, генерация |
 | **Сетевые утилиты** | сокеты, мониторинг |
