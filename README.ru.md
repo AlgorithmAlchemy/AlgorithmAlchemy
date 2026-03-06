@@ -18,6 +18,8 @@
 - Проектирую архитектуру сервисов с нуля
 - Оптимизирую latency и I/O
 - Слежу за технологиями, особенно интересуюсь **Web3**, **AI** и **privacy-tech**.
+- **Engineering Principles:** SOLID, DRY, KISS, Clean architecture, Test isolation, Industrial code style, Документация и типизация
+- 
 ---
 
 ### Статистика и активность  
@@ -56,7 +58,6 @@
 | **Сетевые утилиты** | сокеты, мониторинг |
 
 
-> **Engineering Principles:** SOLID, DRY, KISS, Clean architecture, Test isolation, Industrial code style, Документация и типизация
 
 
 <p align="center">
