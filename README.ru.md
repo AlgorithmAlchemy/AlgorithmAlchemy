@@ -44,7 +44,7 @@
 | Frameworks            | `Django`, `aiogram`, `FastAPI` |
 | Async / Networking    | `asyncio`, `aiohttp`, `WebSockets`, `Sockets` |
 | Databases             | `PostgreSQL`, `MySQL`, `MongoDB`, `SQLite` |
-| Data / Automation     | `Pandas`, `Selenium(web automation & testing)` |
+| Data / Automation     | `Pandas`, `Selenium` |
 | ORM                   | `SQLAlchemy`, `Peewee`, `Django ORM` |
 | DevOps / Infra        | `Docker Compose`, `CI/CD`,  `Nginx`, `Gunicorn` |
 | Testing               | `Pytest`, `Unit testing`, `Integration testing` |
