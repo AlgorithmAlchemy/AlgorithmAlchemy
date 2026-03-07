@@ -28,17 +28,13 @@ I am a **Python developer** with over **3 years of commercial experience**. My m
 ----
 ### TECH STACK
 
-| Category              | Technologies |
-|-----------------------|-------------|
-| Languages             | `Python`, `JavaScript` |
-| Frameworks            | `Django`, `aiogram`, `Flask`, `fastapi` |
-| Async / Networking    | `asyncio`, `aiohttp`, `WebSockets`, `Sockets` |
-| Databases             | `PostgreSQL`, `MySQL`, `MongoDB`, `SQLite` |
-| Data / Automation     | `Pandas`, `Selenium` |
-| ORM                   | `SQLAlchemy`, `Peewee`, `Django ORM` |
-| DevOps / Infra        | `Docker Compose`, `CI/CD`,  `Nginx`, `Gunicorn` |
-| Code Quality & Testing  | `pytest`,  `ruff`, `ty`,`coverage`, `flake8`  |
-| Background processing     | `Redis`, `Celery` |
+| Development                  | Tools & Infrastructure |
+|------------------------------|----------------------|
+| **Languages**:<br>`Python`, `JavaScript` | **ORM**:<br>`SQLAlchemy`, `Peewee`, `Django ORM` |
+| **Frameworks**:<br>`Django`, `aiogram`, `Flask`, `fastapi` | **DevOps / Infra**:<br>`Docker Compose`, `CI/CD`, `Nginx`, `Gunicorn` |
+| **Async / Networking**:<br>`asyncio`, `aiohttp`, `WebSockets`, `Sockets` | **Code Quality & Testing**:<br>`pytest`, `ruff`, `ty`, `coverage`, `flake8` |
+| **Databases**:<br>`PostgreSQL`, `MySQL`, `MongoDB`, `SQLite` | **Background Processing**:<br>`Redis`, `Celery` |
+
 
 ----
 ### PROJECTS
