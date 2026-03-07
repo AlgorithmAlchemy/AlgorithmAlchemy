@@ -47,7 +47,7 @@
 | Data / Automation     | `Pandas`, `Selenium` |
 | ORM                   | `SQLAlchemy`, `Peewee`, `Django ORM` |
 | DevOps / Infra        | `Docker Compose`, `CI/CD`,  `Nginx`, `Gunicorn` |
-| Code Quality & Testing  | `pytest`,  `ruff`, `ty`,`coverage`  |
+| Code Quality & Testing  | `pytest`,  `ruff`, `ty`,`coverage`, `flake8`  |
 | Background processing     | `Redis`, `Celery` |
 
 ----
