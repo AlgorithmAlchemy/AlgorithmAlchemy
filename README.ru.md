@@ -41,10 +41,10 @@
 | Category              | Technologies |
 |-----------------------|-------------|
 | Languages             | `Python`, `JavaScript` |
-| Frameworks            | `Django`, `aiogram`, `REST` |
+| Frameworks            | `Django`, `aiogram`, `FastAPI` |
 | Async / Networking    | `asyncio`, `aiohttp`, `WebSockets`, `Sockets` |
 | Databases             | `PostgreSQL`, `MySQL`, `MongoDB`, `SQLite` |
-| Data / Automation     | `Pandas`, `Selenium` |
+| Data / Automation     | `Pandas`, `Selenium(web automation & testing)` |
 | ORM                   | `SQLAlchemy`, `Peewee`, `Django ORM` |
 | DevOps / Infra        | `Docker Compose`, `CI/CD`,  `Nginx`, `Gunicorn` |
 | Testing               | `Pytest`, `Unit testing`, `Integration testing` |
@@ -57,7 +57,7 @@
 | Название | Описание |
 |---------|----------|
 | **Telegram-боты** | системы модерации, автоматизация, mini-apps (PostgreSQL, Redis) |
-| **TimeTracker** | соло-разработка бэкенда и DevOps: микросервисная архитектура (FastAPI, async, Alembic, CI, 500+ commits  |
+| **TimeTracker** | соло-разработка бэкенда и DevOps: микросервисная архитектура (FastAPI, async, Alembic, CI, 500+ commits)  |
 | **Face AI / Vision** | генерация AR-масок, computer vision |
 | **Сетевые утилиты** | Asyncio сокеты, мониторинг, сетевые инструменты |
 
