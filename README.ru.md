@@ -33,7 +33,6 @@
 - API: Flask / FastAPI, OpenAPI, versioning, authentication
 - Автоматизация: парсеры, антидетекты
 - ML демо и эксперименты, нейросети и генерация контента
-- Сетевые инструменты: сокеты, мониторинг
 
 ----
 
@@ -56,10 +55,10 @@
 
 | Название | Описание |
 |---------|----------|
-| **Telegram-боты** | системы модерации, автоматизация, mini-apps с использованием PostgreSQL и Redis. |
-| **FastAPI** | микросервисная архитектура TimeTracker приложения  |
-| **Face AI / Vision** | генерация AR-масок, распознавание лиц |
-| **Сетевые утилиты** | сокеты, мониторинг asyncio sockets |
+| **Telegram-боты** | системы модерации, автоматизация, mini-apps (PostgreSQL, Redis) |
+| **FastAPI** | микросервисная архитектура для TimeTracker приложения (REST API, async)  |
+| **Face AI / Vision** | генерация AR-масок, computer vision |
+| **Сетевые утилиты** | Asyncio сокеты, мониторинг, сетевые инструменты |
 
 <p align="center">
   <sub>contact · collaboration · projects</sub>
