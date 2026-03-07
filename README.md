@@ -48,11 +48,10 @@ I am a **Python developer** with over **3 years of commercial experience**. My m
 
 | Name | Description |
 |------|------------|
-| **Telegram Bots** | admin panels and e-commerce bots & bot app |
-| **Face AI / Vision** | AR mask generation, face recognition |
-| **Camera Emulators** | video streaming and virtual devices |
-| **ML Demos** | text classification, emotion detection, generation |
-| **Networking Utilities** | sockets, monitoring |
+| **Telegram Bots** | moderation systems, automation, mini-apps (PostgreSQL, Redis) |
+| **TimeTracker** | solo backend and DevOps development: microservice architecture (FastAPI, async, Alembic, CI, 500+ commits) |
+| **Face AI / Vision** | AR mask generation, computer vision |
+| **Networking Utilities** | asyncio sockets, monitoring, network tools |
 
 
 <p align="center">
