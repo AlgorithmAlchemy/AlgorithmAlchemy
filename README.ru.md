@@ -41,7 +41,7 @@
 | Category              | Technologies |
 |-----------------------|-------------|
 | Languages             | `Python`, `JavaScript` |
-| Frameworks            | `Django`, `aiogram`, `Flask` |
+| Frameworks            | `Django`, `aiogram`, `Flask`, `fastapi` |
 | Async / Networking    | `asyncio`, `aiohttp`, `WebSockets`, `Sockets` |
 | Databases             | `PostgreSQL`, `MySQL`, `MongoDB`, `SQLite` |
 | Data / Automation     | `Pandas`, `Selenium` |
