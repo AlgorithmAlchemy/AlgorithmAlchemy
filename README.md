@@ -6,13 +6,15 @@
 
 --- 
 
-### Welcome  
+### Welcome
 
-I am a **Python developer** with over **3 years of commercial experience**. My core specialization is **backend**, **bots**, **API development**, **infrastructure**, **blockchain**, **neural networks**, and custom automation tools.
+I am a **Python developer** with over **3 years of commercial experience**. My main focus areas are **backend**, **bots**, **REST API**, **infrastructure**, **e-commerce**, **SaaS**, and **blockchain**.
 
-- I enjoy building unconventional solutions, writing minimalistic code, and automating everything possible.  
-- I stay up to date with modern technologies, with a strong interest in **Web3**, **AI**, **privacy-tech**, and **cyber aesthetic tools**.
-
+* Engineering principles: **SOLID**, **DRY**, **KISS**, **Clean Architecture**, **Test Isolation**, **Type Safety**
+* I enjoy optimizing processes and writing minimalistic code, developing custom solutions for automation and integration
+* I design service architectures from scratch
+* I work with async architectures and I/O optimization
+* I am interested in **Web3**, **AI**, and **privacy-tech**
 
 ---
 
