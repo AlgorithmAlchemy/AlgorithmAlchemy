@@ -56,7 +56,7 @@
 | Название | Описание |
 |---------|----------|
 | **Telegram-боты** | системы модерации, автоматизация, mini-apps (PostgreSQL, Redis) |
-| **FastAPI** | микросервисная архитектура для TimeTracker приложения (REST API, async)  |
+| **FastAPI** | микросервисная архитектура для TimeTracker приложения (REST API, async, Alembic, Pydantic)  |
 | **Face AI / Vision** | генерация AR-масок, computer vision |
 | **Сетевые утилиты** | Asyncio сокеты, мониторинг, сетевые инструменты |
 
