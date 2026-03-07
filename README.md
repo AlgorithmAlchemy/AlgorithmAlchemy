@@ -20,14 +20,11 @@ I am a **Python developer** with over **3 years of commercial experience**. My m
 
 ---
 
-### CORE DIRECTIONS
+### Main Focus Areas
 
-- Telegram bots and CLI tools  
-- API services using Flask / FastAPI  
-- Automation: parsers, anti-detect systems  
-- Computer vision, neural networks, and content generation  
-- Web3, NFT, crypto gateways, and blockchain monitoring  
-- Networking tools: sockets, monitoring  
+* API: Flask / FastAPI, OpenAPI, versioning, authentication
+* Automation: parsers, anti-detection tools
+* ML demos and experiments, neural networks, content generation
 
 ---
 
@@ -36,11 +33,14 @@ I am a **Python developer** with over **3 years of commercial experience**. My m
 | Category              | Technologies |
 |-----------------------|-------------|
 | Languages             | `Python`, `JavaScript` |
+| Frameworks            | `Django`, `aiogram`, `Flask`, `fastapi` |
+| Async / Networking    | `asyncio`, `aiohttp`, `WebSockets`, `Sockets` |
 | Databases             | `PostgreSQL`, `MySQL`, `MongoDB`, `SQLite` |
+| Data / Automation     | `Pandas`, `Selenium` |
 | ORM                   | `SQLAlchemy`, `Peewee`, `Django ORM` |
-| ML / CV               | `PyTorch`, `TensorFlow`, `OpenCV` |
-| DevOps / Infra        | `Docker`, `CI/CD`, `Nginx`, `Gunicorn` |
-| Backend Frameworks    | `FastAPI`, `Flask`, `Django`, `Aiogram` |
+| DevOps / Infra        | `Docker Compose`, `CI/CD`,  `Nginx`, `Gunicorn` |
+| Code Quality & Testing  | `pytest`,  `ruff`, `ty`,`coverage`, `flake8`  |
+| Background processing     | `Redis`, `Celery` |
 
 ---
 
@@ -54,19 +54,16 @@ I am a **Python developer** with over **3 years of commercial experience**. My m
 | **ML Demos** | text classification, emotion detection, generation |
 | **Networking Utilities** | sockets, monitoring |
 
----
 
 <p align="center">
-   <a href="https://t.me/">
-      <img src="https://img.shields.io/badge/Telegram-devlope_r-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
+  <sub>contact · collaboration · projects</sub>
 </p>
 
-<div align="center">
-   <a href="https://komarev.com/ghpvc/?username=algorithmalchemy&color=blue">
-       <img src="https://komarev.com/ghpvc/?username=algorithmalchemy&style=flat-square&color=blue" alt="Profile views"/>
+<p align="center">
+   <a href="https://t.me/algorithmalchemy" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-@algorithmalchemy-0d1117?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&logoWidth=20"/>
    </a>
-</div>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
