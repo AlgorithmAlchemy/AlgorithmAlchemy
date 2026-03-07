@@ -13,12 +13,10 @@ I am a **Python developer** with over **3 years of commercial experience**. My m
 * I work with async architectures and I/O optimization
 * I am interested in **Web3**, **AI**, and **privacy-tech**
 
----
 
 ### Statistics & Activity    
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AlgorithmAlchemy?cardType=level&theme=dark&fontFamily=&preferLogin=false&borderRadius=50)](https://git.io/awesome-stats-card)
 
----
 
 ### Main Focus Areas
 
@@ -26,7 +24,6 @@ I am a **Python developer** with over **3 years of commercial experience**. My m
 * Automation: parsers, anti-detection tools
 * ML demos and experiments, neural networks, content generation
 
----
 
 ### TECH STACK
 
@@ -42,7 +39,6 @@ I am a **Python developer** with over **3 years of commercial experience**. My m
 | Code Quality & Testing  | `pytest`,  `ruff`, `ty`,`coverage`, `flake8`  |
 | Background processing     | `Redis`, `Celery` |
 
----
 
 ### PROJECTS
 
