@@ -39,12 +39,12 @@ I am a **Python developer** with over **3 years of commercial experience**. My m
 ----
 ### PROJECTS
 
-| Name | Description |
-|------|------------|
-| **Telegram Bots** | moderation systems, automation, mini-apps (PostgreSQL, Redis) |
-| **TimeTracker** | solo backend and DevOps development: microservice architecture (FastAPI, async, Alembic, CI, 500+ commits) |
-| **Face AI / Vision** | AR mask generation, computer vision |
-| **Networking Utilities** | asyncio sockets, monitoring, network tools |
+| Project | Description |
+|---------|------------|
+| Telegram Bots | moderation, automation, mini-apps (`PostgreSQL`, `Redis`) |
+| TimeTracker | solo backend & DevOps, microservices (`FastAPI`, `async`, `Alembic`, CI, 500+ commits) |
+| Face AI / Vision | AR masks, computer vision |
+| Networking Utilities | `asyncio` sockets, monitoring, network tools |
 
 
 <p align="center">
