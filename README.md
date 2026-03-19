@@ -41,8 +41,8 @@ I am a **Python developer** with over **3 years of commercial experience**. My m
 
 | Project | Description |
 |---------|------------|
-| Telegram Bots | moderation, automation, mini-apps (`PostgreSQL`, `Redis`) |
 | TimeTracker | solo backend & DevOps, microservices (`FastAPI`, `async`, `Alembic`, CI, 500+ commits) |
+| Telegram | mini-apps (`PostgreSQL`, `Redis`) |
 
 
 <p align="center">
