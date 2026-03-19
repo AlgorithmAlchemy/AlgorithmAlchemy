@@ -22,7 +22,6 @@ I am a **Python developer** with over **3 years of commercial experience**. My m
 ### Main Focus Areas
 
 * API: Flask / FastAPI, OpenAPI, versioning, authentication
-* Automation: parsers, anti-detection tools
 * ML demos and experiments, neural networks, content generation
 
 ----
