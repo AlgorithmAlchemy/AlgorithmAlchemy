@@ -50,8 +50,8 @@
 
 | Название | Описание |
 |---------|----------|
-| **Telegram-боты** | системы модерации, автоматизация, mini-apps (PostgreSQL, Redis) |
 | **TimeTracker** | соло-разработка бэкенда и DevOps: микросервисная архитектура (FastAPI, async, Alembic, CI, 500+ commits)  |
+| **Telegram** | mini-apps (PostgreSQL, Redis) |
 
 
 <p align="center">
