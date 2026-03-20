@@ -4,7 +4,7 @@
 </p>
 
 
-<h3 align="center" style="display: inline-flex; align-items: center; gap: 0.2em;">
+<h3 align="left" style="display: inline-flex; align-items: center; gap: 0.2em;">
   <a href="https://github.com/AlgorithmAlchemy#:~:text=Pinned" target="_blank" style="text-decoration: none; color: inherit; font-weight: bold;">
     &gt;
   </a>
