@@ -4,15 +4,12 @@
 </p>
 
 
-<p align="left" style="line-height: 1;">
-  <!-- Minimal ">" Pinned link -->
-  <a href="https://github.com/AlgorithmAlchemy#:~:text=Pinned" target="_blank" style="text-decoration: none; color: inherit; font-weight: bold; margin-right: 0.2em;">
+<h3 align="center" style="display: inline-flex; align-items: center; gap: 0.2em;">
+  <a href="https://github.com/AlgorithmAlchemy#:~:text=Pinned" target="_blank" style="text-decoration: none; color: inherit; font-weight: bold;">
     &gt;
   </a>
-  <strong style="font-size: 1.3em;">Welcome</strong>
-</p>
-
-
+  Welcome
+</h3>
 
 I am a **Python developer** with over **3 years of commercial experience**. My main focus areas are **backend**, **bots**, **REST API**, **infrastructure**, **e-commerce**, **SaaS**, and **blockchain**.
 
