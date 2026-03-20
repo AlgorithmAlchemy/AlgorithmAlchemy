@@ -7,8 +7,6 @@
     <img src="https://img.shields.io/badge/English%20version-README-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&logoWidth=20" alt="English version">
   </a>
 
-</p>
-
 <h3 align="left" style="display: inline-flex; align-items: center; gap: 0.2em;">
   <a href="https://github.com/AlgorithmAlchemy#:~:text=contributions" target="_blank" style="text-decoration: none; color: inherit; font-weight: bold;">
     &gt;
