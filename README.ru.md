@@ -14,8 +14,6 @@
   Приветствую
 </h3>
 
-<a href="https://github.com/AlgorithmAlchemy#:~:text=contributions" target="_blank">Contributions</a>
-
 
 Я **Python-разработчик** с более чем **3 годами коммерческого опыта**. Основная специализация — **backend**, **боты**, **REST API**, **инфраструктура**, **e-commerce**, **SaaS**, **блокчейн**.
 
