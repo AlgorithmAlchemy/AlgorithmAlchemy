@@ -46,7 +46,7 @@ I am a **Python developer** with over **3 years of commercial experience**. My m
 
 | Project | Description |
 |---------|------------|
-| TimeTracker | solo backend & DevOps, microservices (`FastAPI`, `async`, `Alembic`, CI, 500+ commits) |
+| TimeTracker | solo backend & DevOps, microservices (`FastAPI`, `async`, `Alembic`, CI, 500+ commits, Docker Compose) |
 | Telegram | mini-apps (`PostgreSQL`, `Redis`) |
 
 
