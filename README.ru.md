@@ -53,7 +53,7 @@
 
 | Название | Описание |
 |---------|----------|
-| **TimeTracker** | соло-разработка бэкенда и DevOps: микросервисная архитектура (FastAPI, async, Alembic, CI, 500+ commits)  |
+| **TimeTracker** | соло-разработка бэкенда и DevOps: микросервисная архитектура (FastAPI, async, Alembic, CI, 500+ commits, Docker Compose)  |
 | **Telegram** | mini-apps (PostgreSQL, Redis) |
 
 
