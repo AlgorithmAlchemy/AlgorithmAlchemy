@@ -42,7 +42,7 @@
 |------------------------------|----------------------|
 | **Languages**:<br>`Python`, `JavaScript` | **ORM**:<br>`SQLAlchemy`, `Peewee`, `Django ORM` |
 | **Frameworks**:<br>`Django`, `aiogram`, `Flask`, `fastapi` | **DevOps / Infra**:<br>`Docker Compose`, `CI/CD`, `Nginx`, `Gunicorn` |
-| **Async / Networking**:<br>`asyncio`, `aiohttp`, `WebSockets`, `Sockets` | **Code Quality & Testing**:<br>`pytest`, `ruff`, `ty`, `coverage`, `flake8` |
+| **Async / Highload**:<br>`asyncio`, `aiohttp`, `WebSockets`, `Sockets` | **Code Quality & Testing**:<br>`pytest`, `ruff`, `ty`, `coverage`, `flake8` |
 | **Databases**:<br>`PostgreSQL`, `MySQL`, `MongoDB`, `SQLite` | **Background Processing**:<br>`Redis`, `Celery` |
 
 
