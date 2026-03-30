@@ -33,7 +33,8 @@
 
 ### ОСНОВНЫЕ НАПРАВЛЕНИЯ
 
-- API: Flask / FastAPI, OpenAPI, versioning, authentication
+- API: Flask / FastAPI / Django REST, OpenAPI, versioning, authentication
+- Проектирование и работа с базами данных, в том числе с big data
 - ML демо и эксперименты, нейросети и генерация контента
 
 ----
