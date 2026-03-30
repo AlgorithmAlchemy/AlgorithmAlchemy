@@ -64,7 +64,7 @@
 
 <p align="center">
    <a href="https://t.me/algorithmalchemy" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-@algorithmalchemy-0d1117?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&logoWidth=20" alt="Telegram contact link" title="Me telegram "/>
+      <img src="https://img.shields.io/badge/Telegram-@algorithmalchemy-0d1117?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&logoWidth=20" alt="Contact me on Telegram" title="Contact me on Telegram"/>
    </a>
 </p>
 
