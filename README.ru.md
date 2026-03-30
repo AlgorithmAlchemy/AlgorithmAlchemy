@@ -43,7 +43,7 @@
 | Development                  | Tools & Infrastructure |
 |------------------------------|----------------------|
 | **Languages**:<br>`Python`, `JavaScript` | **ORM**:<br>`SQLAlchemy`, `Peewee`, `Django ORM` |
-| **Frameworks**:<br>`Django`, `aiogram`, `Flask`, `` | **DevOps / Infra**:<br>`Docker Compose`, `CI/CD`, `Nginx`, `Gunicorn` |
+| **Frameworks**:<br>`Django`, `aiogram`, `Flask` | **DevOps / Infra**:<br>`Docker Compose`, `CI/CD`, `Nginx`, `Gunicorn` |
 | **Async / Highload**:<br>`asyncio`, `aiohttp`, `WebSockets` | **Code Quality & Testing**:<br>`pytest`, `ruff`, `ty`, `coverage`, `flake8` |
 | **Databases**:<br>`PostgreSQL`, `MySQL`, `MongoDB`, `SQLite` | **Background Processing**:<br>`Redis`, `Celery` |
 
@@ -64,7 +64,7 @@
 
 <p align="center">
    <a href="https://t.me/algorithmalchemy" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-@algorithmalchemy-0d1117?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&logoWidth=20"/>
+      <img src="https://img.shields.io/badge/Telegram-@algorithmalchemy-0d1117?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&logoWidth=20" alt="Telegram contact link" title="Me telegram "/>
    </a>
 </p>
 
