@@ -21,7 +21,7 @@
 - Соло и командный опыт (техлид в Django/FastAPI-стартапах)
 - Проектирую архитектуру сервисов с нуля
 - Работаю с async-архитектурой и оптимизацией I/O
-- Интересуюсь направлениями  **Web3**, **AI** и **privacy-tech**.
+- Дополнительно:  **Web3**, **AI** и **privacy-tech**.
 
 ---
 
@@ -43,8 +43,8 @@
 | Development                  | Tools & Infrastructure |
 |------------------------------|----------------------|
 | **Languages**:<br>`Python`, `JavaScript` | **ORM**:<br>`SQLAlchemy`, `Peewee`, `Django ORM` |
-| **Frameworks**:<br>`Django`, `aiogram`, `Flask`, `fastapi` | **DevOps / Infra**:<br>`Docker Compose`, `CI/CD`, `Nginx`, `Gunicorn` |
-| **Async / Highload**:<br>`asyncio`, `aiohttp`, `WebSockets`, `Sockets` | **Code Quality & Testing**:<br>`pytest`, `ruff`, `ty`, `coverage`, `flake8` |
+| **Frameworks**:<br>`Django`, `aiogram`, `Flask`, `` | **DevOps / Infra**:<br>`Docker Compose`, `CI/CD`, `Nginx`, `Gunicorn` |
+| **Async / Highload**:<br>`asyncio`, `aiohttp`, `WebSockets` | **Code Quality & Testing**:<br>`pytest`, `ruff`, `ty`, `coverage`, `flake8` |
 | **Databases**:<br>`PostgreSQL`, `MySQL`, `MongoDB`, `SQLite` | **Background Processing**:<br>`Redis`, `Celery` |
 
 
@@ -54,7 +54,7 @@
 
 | Название | Описание |
 |---------|----------|
-| **TimeTracker** | соло-разработка бэкенда и DevOps: микросервисная архитектура (FastAPI, async, Alembic, CI, 500+ commits, Docker Compose)  |
+| **TimeTracker** | соло-разработка FastAPI async backend и DevOps: микросервисная архитектура ( Alembic, CI, 500+ commits, Docker Compose)  |
 | **Telegram** | Mini App platform: bot + WebApp + async backend API, PostgreSQL + Redis |
 
 
