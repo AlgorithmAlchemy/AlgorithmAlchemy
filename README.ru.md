@@ -34,6 +34,7 @@
 
 - API: Flask / FastAPI / Django REST, OpenAPI, versioning, authentication
 - Проектирование и работа с базами данных, в том числе с big data
+- Автоматизация, парсинг и интеграции (Selenium, aiohttp, Dolphin API, Anti-Fraud решения)
 
 ----
 
