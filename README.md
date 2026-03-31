@@ -23,13 +23,14 @@ I am a **Python developer** with over **3 years of commercial experience**. My m
 ----
 
 ### Statistics & Activity    
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AlgorithmAlchemy?cardType=level&theme=dark&fontFamily=&preferLogin=false&borderRadius=50)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AlgorithmAlchemy?cardType=level&theme=dark&fontFamily=&preferLogin=false&borderRadius=50 "GitHub profile stats for AlgorithmAlchemy")](https://git.io/awesome-stats-card)
 
 ----
 ### Main Focus Areas
 
-* API: Flask / FastAPI, OpenAPI, versioning, authentication
-* ML demos and experiments, neural networks, content generation
+- API: Flask / FastAPI / Django REST, OpenAPI, versioning, authentication
+- Database design and development, including big data solutions
+- Automation, scraping, and integrations (Selenium, aiohttp, Dolphin API, anti-fraud systems)
 
 ----
 ### TECH STACK
@@ -37,8 +38,8 @@ I am a **Python developer** with over **3 years of commercial experience**. My m
 | Development                  | Tools & Infrastructure |
 |------------------------------|----------------------|
 | **Languages**:<br>`Python`, `JavaScript` | **ORM**:<br>`SQLAlchemy`, `Peewee`, `Django ORM` |
-| **Frameworks**:<br>`Django`, `aiogram`, `Flask`, `fastapi` | **DevOps / Infra**:<br>`Docker Compose`, `CI/CD`, `Nginx`, `Gunicorn` |
-| **Async / Highload**:<br>`asyncio`, `aiohttp`, `WebSockets`, `Sockets` | **Code Quality & Testing**:<br>`pytest`, `ruff`, `ty`, `coverage`, `flake8` |
+| **Frameworks**:<br>`Django`, `aiogram`, `Flask` | **DevOps / Infra**:<br>`Docker Compose`, `CI/CD`, `Nginx`, `Gunicorn` |
+| **Async / Highload**:<br>`asyncio`, `aiohttp`, `WebSockets`| **Code Quality & Testing**:<br>`pytest`, `ruff`, `ty`, `coverage`, `flake8` |
 | **Databases**:<br>`PostgreSQL`, `MySQL`, `MongoDB`, `SQLite` | **Background Processing**:<br>`Redis`, `Celery` |
 
 
@@ -47,8 +48,8 @@ I am a **Python developer** with over **3 years of commercial experience**. My m
 
 | Project | Description |
 |---------|------------|
-| TimeTracker | solo backend & DevOps, microservices (`FastAPI`, `async`, `Alembic`, CI, 500+ commits, Docker Compose) |
-| Telegram | mini-apps (`PostgreSQL`, `Redis`) |
+| **TimeTracker** | Solo development of an async FastAPI backend and DevOps: microservices architecture (Alembic, CI, 500+ commits, Docker Compose) |
+| **Telegram** | Mini App platform: bot + WebApp + async backend API, PostgreSQL + Redis |
 
 
 <p align="center">
@@ -57,7 +58,7 @@ I am a **Python developer** with over **3 years of commercial experience**. My m
 
 <p align="center">
    <a href="https://t.me/algorithmalchemy" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-@algorithmalchemy-0d1117?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&logoWidth=20"/>
+      <img src="https://img.shields.io/badge/Telegram-@algorithmalchemy-0d1117?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&logoWidth=20" alt="Contact me on Telegram" title="Contact me on Telegram"/>
    </a>
 </p>
 
