@@ -4,7 +4,7 @@
 </p>
 
 
-<h3 align="left" style="display: inline-flex; align-items: center; gap: 0.2em;">
+<h3 align="left" style="display: flex; align-items: center; gap: 0.2em;">
   <a href="https://github.com/AlgorithmAlchemy#:~:text=contributions" target="_blank" title="See my contributions" style="text-decoration: none; color: inherit; font-weight: bold;">
     &gt;
   </a>
@@ -13,12 +13,12 @@
 
 I am a **Python developer** with over **3 years of commercial experience**. My main focus areas are **backend**, **bots**, **REST API**, **infrastructure**, **e-commerce**, **SaaS**, and **blockchain**.
 
-* Engineering principles: **SOLID**, **DRY**, **KISS**, **Clean Architecture**, **Test Isolation**, **Type Safety**
-* Experience delivering production-ready solutions: from MVPs to scalable pipelines.
-* Solo and team experience (tech lead in Django/FastAPI startups).
-* I design service architectures from scratch
-* I work with async architectures and I/O optimization
-* I am interested in **Web3**, **AI**, and **privacy-tech**
+- Follow Engineering principles: **SOLID**, **DRY**, **KISS**, **Clean Architecture**, **Test Isolation**, **Type Safety**
+- Experience delivering production-ready solutions: from MVPs to scalable pipelines.
+- Solo and team experience (tech lead in Django/FastAPI startups).
+- I design service architectures from scratch
+- I work with async architectures and I/O optimization
+- I am interested in **Web3**, **AI**, and **privacy-tech**
 
 ----
 
