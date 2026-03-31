@@ -26,8 +26,7 @@
 ---
 
 ### Статистика и активность  
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AlgorithmAlchemy?cardType=level&theme=dark&fontFamily=&preferLogin=false&borderRadius=50)](https://git.io/awesome-stats-card)
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AlgorithmAlchemy?cardType=level&theme=dark&fontFamily=&preferLogin=false&borderRadius=50 "GitHub profile stats for AlgorithmAlchemy")](https://git.io/awesome-stats-card)
 ----
 
 ### ОСНОВНЫЕ НАПРАВЛЕНИЯ
