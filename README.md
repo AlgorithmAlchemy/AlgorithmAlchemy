@@ -13,12 +13,12 @@
 
 I am a **Python developer** with over **3 years of commercial experience**. My main focus areas are **backend**, **bots**, **REST API**, **infrastructure**, **e-commerce**, **SaaS**, and **blockchain**.
 
-- Follow Engineering principles: **SOLID**, **DRY**, **KISS**, **Clean Architecture**, **Test Isolation**, **Type Safety**
-- Experience delivering production-ready solutions: from MVPs to scalable pipelines.
-- Solo and team experience (tech lead in Django/FastAPI startups).
-- I design service architectures from scratch
-- I work with async architectures and I/O optimization
-- I am interested in **Web3**, **AI**, and **privacy-tech**
+- Follow engineering principles: **SOLID**, **DRY**, **KISS**, **Clean Architecture**, **Test Isolation**, **Type Safety**
+- Experience delivering production-ready solutions: from MVPs to scalable pipelines
+- Experience working both independently and in teams (Tech Lead in Django/FastAPI startups)
+- Design service architectures from scratch
+- Work with async architectures and I/O optimization
+- Additional areas of interest: **Web3**, **AI**, and **privacy-tech**
 
 ----
 
