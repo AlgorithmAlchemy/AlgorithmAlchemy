@@ -39,11 +39,13 @@
 
 ### СТЕК
 
-| Core | Infra & Tools |
-|------|---------------|
-| Python, JS • Django, Flask, aiogram • asyncio/aiohttp • PostgreSQL, MongoDB | SQLAlchemy • Redis, Celery • Docker, Nginx • pytest, ruff |
+| Development                  | Tools & Infrastructure |
+|------------------------------|----------------------|
+| **Languages**:<br>`Python`, `JavaScript` | **ORM**:<br>`SQLAlchemy`, `Django ORM` |
+| **Frameworks**:<br>`Django`, `aiogram`, `Flask` | **DevOps / Infra**:<br>`Docker`, `CI/CD`, `Nginx` |
+| **Async / Highload**:<br>`asyncio`, `aiohttp` | **Code Quality & Testing**:<br>`pytest`, `ruff` |
+| **Databases**:<br>`PostgreSQL`, `MongoDB` | **Background Processing**:<br>`Redis`, `Celery` |
 
-----
 
 ### ПРОЕКТЫ
 
