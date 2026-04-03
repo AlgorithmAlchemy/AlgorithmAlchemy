@@ -39,7 +39,7 @@ I am a **Python developer** with over **3 years of commercial experience**. My m
 |------------------------------|----------------------|
 | **Languages**:<br>`Python`, `JavaScript` | **ORM**:<br>`SQLAlchemy`, `Django ORM` |
 | **Frameworks**:<br>`Django`, `aiogram`, `Flask` | **DevOps / Infra**:<br>`Docker`, `CI/CD`, `Nginx` |
-| **Async / Highload**:<br>`asyncio`, `aiohttp` | **Code Quality & Testing**:<br>`pytest`, `ruff` |
+| **Async / Highload**:<br>`asyncio`, `aiohttp` | **Code Quality & Testing**:<br>`pytest`, `ruff`, `ty` |
 | **Databases**:<br>`PostgreSQL`, `MongoDB` | **Background Processing**:<br>`Redis`, `Celery` |
 
 ### PROJECTS
