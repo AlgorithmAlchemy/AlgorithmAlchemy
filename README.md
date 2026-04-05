@@ -36,8 +36,8 @@ I am a **Python developer** with over **3 years of commercial experience**. My m
 | Development                  | Tools & Infrastructure |
 |------------------------------|----------------------|
 | **Languages**:<br>`Python`, `JavaScript` | **ORM**:<br>`SQLAlchemy`, `Django ORM` |
-**DevOps / Infra**:<br>`Docker`, `CI/CD`, `Nginx` | **Code Quality & Testing**:<br>`pytest`, `ruff`, `ty` |
-| **Databases**:<br>`Mysql`, `MongoDB` | **Background Processing**:<br>`Redis`, `Celery` |
+**DevOps / Infra**:<br>`Nginx` | **Code Quality & Testing**:<br>`pytest`, `ruff`, `ty` |
+| **Databases**:<br>`Mysql`, `MongoDB` | **Background Processing**:<br> `Celery` |
 
 ### PROJECTS
 
