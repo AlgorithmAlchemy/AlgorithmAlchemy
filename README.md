@@ -25,11 +25,6 @@ I am a **Python developer** with over **3 years of commercial experience**. My m
 ### Statistics & Activity    
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AlgorithmAlchemy?cardType=level&theme=dark&fontFamily=&preferLogin=false&borderRadius=50 "GitHub profile stats for AlgorithmAlchemy")](https://git.io/awesome-stats-card)
 
-----
-### Main Focus Areas
-- Database design and development, including big data solutions
-- Automation, scraping, and integrations (Selenium, aiohttp, Dolphin API, anti-fraud systems)
-
 ### PROJECTS
 
 | Project | Description |
