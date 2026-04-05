@@ -30,15 +30,6 @@ I am a **Python developer** with over **3 years of commercial experience**. My m
 - Database design and development, including big data solutions
 - Automation, scraping, and integrations (Selenium, aiohttp, Dolphin API, anti-fraud systems)
 
-----
-### TECH STACK
-
-| Development                  | Tools & Infrastructure |
-|------------------------------|----------------------|
-| **Languages**:<br>`Python`, `JavaScript` | **ORM**:<br>`SQLAlchemy`, `Django ORM` |
-**DevOps / Infra**:<br>`Nginx` | **Code Quality & Testing**:<br>`pytest`, `ruff`, `ty` |
-| **Databases**:<br>`Mysql`, `MongoDB` | **Background Processing**:<br> `Celery` |
-
 ### PROJECTS
 
 | Project | Description |
