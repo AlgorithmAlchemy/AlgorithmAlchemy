@@ -15,7 +15,7 @@ I am a **Python developer** with over **3 years of commercial experience**. My m
 
 - Follow engineering principles: **SOLID**, **DRY**, **KISS**, **Clean Architecture**, **Test Isolation**, **Type Safety**
 - Experience delivering production-ready solutions: from MVPs to scalable pipelines
-- Experience working both independently and in teams (Tech Lead in Django/FastAPI startups)
+- Experience working both independently and in teams (tech lead in Django/FastAPI startups)
 - Design service architectures from scratch
 - Work with async architectures and I/O optimization
 - Additional areas of interest: **Web3**, **AI**, and **privacy-tech**
