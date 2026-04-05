@@ -28,7 +28,7 @@ I am a **Python developer** with over **3 years of commercial experience**. My m
 ----
 ### Main Focus Areas
 
-- API: Flask / FastAPI / Django REST, OpenAPI, versioning, authentication
+- API: Flask / FastAPI / Django, OpenAPI, versioning, authentication
 - Database design and development, including big data solutions
 - Automation, scraping, and integrations (Selenium, aiohttp, Dolphin API, anti-fraud systems)
 
