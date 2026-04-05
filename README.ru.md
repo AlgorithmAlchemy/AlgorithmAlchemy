@@ -29,30 +29,12 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AlgorithmAlchemy?cardType=level&theme=dark&fontFamily=&preferLogin=false&borderRadius=50 "GitHub profile stats for AlgorithmAlchemy")](https://git.io/awesome-stats-card)
 ----
 
-### ОСНОВНЫЕ НАПРАВЛЕНИЯ
-
-- API: Flask / FastAPI / Django REST, OpenAPI, versioning, authentication
-- Проектирование и работа с базами данных, в том числе с big data
-- Автоматизация, парсинг и интеграции (Selenium, aiohttp, Dolphin API, Anti-Fraud решения)
-
-----
-
-### СТЕК
-
-| Development                  | Tools & Infrastructure |
-|------------------------------|----------------------|
-| **Languages**:<br>`Python`, `JavaScript` | **ORM**:<br>`SQLAlchemy`, `Django ORM` |
-| **Frameworks**:<br>`Django`, `aiogram`, `Flask` | **DevOps / Infra**:<br>`Docker`, `CI/CD`, `Nginx` |
-| **Async / Highload**:<br>`asyncio`, `aiohttp` | **Code Quality & Testing**:<br>`pytest`, `ruff` |
-| **Databases**:<br>`PostgreSQL`, `MongoDB` | **Background Processing**:<br>`Redis`, `Celery` |
-
-
 ### ПРОЕКТЫ
 
 | Название | Описание |
-|---------|----------|
-| **TimeTracker** | соло-разработка FastAPI async backend и DevOps: микросервисная архитектура ( Alembic, CI, 500+ commits, Docker Compose)  |
-| **Telegram** | Mini App platform: bot + WebApp + async backend API, PostgreSQL + Redis |
+|---------|------------|
+| **TimeTracker** | Solo development of an FastAPI and DevOps: microservices architecture (Alembic, CI, 500+ commits, Docker Compose) |
+| **Telegram** | Mini App platform: bot + WebApp , PostgreSQL + Redis |
 
 
 <p align="center">
