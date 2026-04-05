@@ -37,14 +37,14 @@ I am a **Python developer** with over **3 years of commercial experience**. My m
 |------------------------------|----------------------|
 | **Languages**:<br>`Python`, `JavaScript` | **ORM**:<br>`SQLAlchemy`, `Django ORM` |
 **DevOps / Infra**:<br>`Docker`, `CI/CD`, `Nginx` | **Code Quality & Testing**:<br>`pytest`, `ruff`, `ty` |
-| **Databases**:<br>`PostgreSQL`, `MongoDB` | **Background Processing**:<br>`Redis`, `Celery` |
+| **Databases**:<br>`Mysql`, `MongoDB` | **Background Processing**:<br>`Redis`, `Celery` |
 
 ### PROJECTS
 
 | Project | Description |
 |---------|------------|
 | **TimeTracker** | Solo development of an FastAPI and DevOps: microservices architecture (Alembic, CI, 500+ commits, Docker Compose) |
-| **Telegram** | Mini App platform: bot + WebApp , Redis |
+| **Telegram** | Mini App platform: bot + WebApp , PostgreSQL + Redis |
 
 
 <p align="center">
