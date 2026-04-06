@@ -46,3 +46,4 @@ I am a **Python developer** with over **3 years of commercial experience**. My m
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
+ 
