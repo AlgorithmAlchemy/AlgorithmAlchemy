@@ -33,7 +33,7 @@
 
 | Название | Описание |
 |---------|------------|
-| **TimeTracker** | Solo development of an FastAPI and DevOps: microservices architecture (Alembic, CI, 500+ commits, Docker Compose) |
+| **TimeTracker** | Solo development of an FastAPI and DevOps: microservices architecture (Alembic, CI, 500+ commits, Docker Compose, coverage 90% ) |
 | **Telegram** | Mini App platform: bot + WebApp , PostgreSQL + Redis |
 
 
