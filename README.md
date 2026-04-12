@@ -34,14 +34,16 @@ I am a **Python developer** with over **3 years of commercial experience**. My m
 
 
 <p align="center">
-  <sub>contact · collaboration · projects</sub>
+  <sub>
+    contact · collaboration · projects · 
+    <a href="https://algorithmalchemy.github.io/assets/AlgorithmAlchemy.pdf" target="_blank">
+      VIEW CV
+    </a>
+  </sub>
 </p>
 
-<p align="center">
-   <a href="https://t.me/algorithmalchemy" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-@algorithmalchemy-0d1117?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&logoWidth=20" alt="Contact me on Telegram" title="Contact me on Telegram"/>
-   </a>
-</p>
+<p align="center"> <a href="https://t.me/algorithmalchemy" target="_blank"> <img src="https://img.shields.io/badge/Telegram-@algorithmalchemy-0d1117?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&logoWidth=20" alt="Contact me on Telegram" title="Contact me on Telegram"/> </a> </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
