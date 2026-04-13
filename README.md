@@ -36,8 +36,8 @@ I am a **Python developer** with over **3 years of commercial experience**. My m
 <p align="center">
   <sub>
     contact · collaboration · projects · 
-    <a href="https://algorithmalchemy.github.io/assets/AlgorithmAlchemy.pdf" target="_blank">
-      Viev CV
+    <a href="https://algorithmalchemy.github.io/assets/AlgorithmAlchemy.pdf" target="_blank" style="font-weight: 600;">
+      view cv →
     </a>
   </sub>
 </p>
