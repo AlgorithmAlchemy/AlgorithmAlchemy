@@ -1,11 +1,11 @@
 <p align="center">   
   <!-- Smaller header banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=AlgorithmAlchemy&fontAlign=center&fontSize=32&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=AlgorithmAlchemy&fontAlign=center&fontSize=32&animation=fadeIn" alt="[Algorithm](https://github.com/AlgorithmAlchemy)"/>
 </p>
 
 
 <h3 align="left" style="display: flex; align-items: center; gap: 0.2em;">
-  <a href="https://github.com/AlgorithmAlchemy#:~:text=contributions" target="_blank" title="See my contributions" style="text-decoration: none; color: inherit; font-weight: bold;">
+  <a href="https://github.com/AlgorithmAlchemy#:~:text=contributions" target="_blank" title="See my contributions" alt="See my contributions" style="text-decoration: none; color: inherit; font-weight: bold;">
     &gt;
   </a>
   Welcome
@@ -46,6 +46,6 @@ I am a **Python developer** with over **3 years of commercial experience**. My m
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="[Algorithm](https://github.com/AlgorithmAlchemy)"/>
 </p>
  
